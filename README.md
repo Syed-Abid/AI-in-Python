@@ -52,7 +52,7 @@ Explore the AI landscape through the following topics:
 
 Let's dive into the world of AI together! Feel free to reach out, share your insights, or collaborate on AI projects:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) - Connect with me on LinkedIn to stay updated on AI trends and share your experiences.
+- [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/) - Connect with me on LinkedIn to stay updated on AI trends and share your experiences.
 - [Twitter](https://twitter.com/yourhandle) - Follow me on Twitter for quick updates, interesting articles, and AI-related discussions.
 - [Email](mailto:youremail@example.com) - Send me an email if you have specific questions, ideas, or just want to chat about AI.
 
