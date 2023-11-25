@@ -1,5 +1,9 @@
 # AI in Python 🤖🐍
 
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/97/02/07/360_F_397020794_LXE0WLqWxcbhIf2UwXfRtLJwjw8aX5Wj.jpg" alt="AI Logo">
+</div>
+
 Welcome to the "AI in Python" repository! Here, you'll find a collection of code snippets and projects related to artificial intelligence that I've practiced and written in Python. Whether you're a beginner or an AI enthusiast, this repository is your playground to explore various AI concepts.
 
 ## Table of Contents
